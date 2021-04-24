@@ -1,5 +1,7 @@
 {
     "files.associations": {
         "iostream": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "cph.general.defaultLanguage": "cpp"
 }
